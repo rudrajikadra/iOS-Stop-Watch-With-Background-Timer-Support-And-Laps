@@ -6,3 +6,4 @@ If the timer is set to start and the user clicks the home button still the timer
 ## How it looks like
 (Gif)
 
+![stopwatch](https://user-images.githubusercontent.com/15246084/41511467-ac0b7dfc-7294-11e8-8439-14931fcc8a52.gif)
